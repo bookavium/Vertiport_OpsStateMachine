@@ -1,0 +1,27 @@
+
+
+    {
+      "TAKEOFF DATA": {
+        "eVTOL_id": "0x1bf29d1fd7",
+        "Takeoff_Pad": "South_FATO_3",
+        "Exit_Point": "Charlie_South",
+        "Weather": {
+              "Wind":"250-06 KT",
+              "Visibility": "10SM",
+              "Clouds": "SkyClear",
+              "Temperature_Celsius": "04",
+              "DewPoint": "M03"
+              },
+        "Events": {
+          "Leaves_Gate": "08:11:50.0",
+          "Taxi_Time": "21.2",
+          "Takeoff_Time": "08:12:13.6",
+          "Climb_Time": "24.2",
+          "Exit_Point_Time": "08:12:57.8"
+        },
+        "eVTOL_Systems": "Check",
+        "Battery_Charge": "94%",
+        "Battery_Required": "42%"
+      }
+    }
+

@@ -1,0 +1,17 @@
+ {
+  "ALGORITHM OPTIMIZES SCHEDULE": {
+    "flight_N680": {
+      "eVTOL": "0x3b50146e6c",
+      "Departure": "07:37:39 GMT"
+    },
+    "flight_S354": {
+      "eVTOL": "0xb02210ca5f",
+      "Departure": "07:37:41.2 GMT"
+    },
+    "flight_798": {
+      "eVTOL": "0xc55ad34e6b",
+      "Departure": "07:37:41.7 GMT"
+    }
+  }
+}
+

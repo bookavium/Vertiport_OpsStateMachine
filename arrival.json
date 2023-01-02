@@ -1,0 +1,12 @@
+{
+  "id": "f60d0b76-edcb-4a30-8857-d2e643f9af8a",
+  "flightNumber": "LX682",
+    "eVTOLStatus": {
+      "batteryStatus": "100%",
+      "systems": "green"
+    },
+   "times": {
+     "entryPointTimeActual": "1671004408.275092",
+     "landingTimeEstimated": "1671004408.275092",
+     "secondsToLanding": 3
+   },

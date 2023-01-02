@@ -1,0 +1,132 @@
+{
+    "UPLOADING THE FLIGHT PLAN": {
+    "VTOLId": "0x1bf29d1fd7",
+    "VTOLModel": "eBEE",
+    "VTOLType": "143GM",
+    "VTOLPropulsion": "tilt",
+    "VTOLTaxi": "hoover",
+    "nOfPaxMax": 4,
+    "flightRulesCapabilities": "VFR",
+    "flightControl": "remote"
+  },
+  "FlightPlan": {
+    "DepVertiport": "KVTOL",
+    "ArrVertiport": "KVTOM",
+    "EstimatedDepartureTime": "07:34:45.6",
+    "EstimatedFlightTime": 23,
+    "EstimatedArrivalTime": "07:32:21.4"
+  },
+  "Arrival": {
+    "ArrivalPoint": "Sierra_2",
+    "Est_TimeOverPoint": "07:35:23.1"
+  },
+  "ApproachLanding": {
+    "LandingFATO": "Pad_2",
+    "Est_LandingTime": "07:35:27.4"
+  },
+  "TaxiPark": {
+    "Taxiway": "Sierra_4",
+    "Stand": "Stand_3",
+    "Est_TimeAtStand": "07:35:34.2"
+  },
+  "TurnAround": {
+    "DeVTOLTime": "07:35:49.1",
+    "ChargingTime": 48,
+    "OnVTOLTime": "07:45:23.2"
+  }
+}
+
+
+
+
+
+
+
+  "Inbound": true,
+    "operatorId": "HEX",
+    "flightNumber": "LX682",
+    "VTOLId": "HEX",
+    "VTOLData": {
+      "eVTOL": "type",
+      "VTOL": "type",
+      "propulsion": "type",
+      "nOfPaxMax": 4,
+      "shapeType": "A",
+      "taxiType": "Hoover/roll",
+      "flightRulesCapabilities": "VFR/IFR"
+    },
+    "departureAirport": {
+      "vertiportName": "HEX",
+      "airportAvailable": true
+    },
+    "arrival": {
+      "vertiportName": "HEX",
+      "expectedEntryPt": "entryPt",
+      "airportAvailable": true,
+      "weatherReceived": true,
+      "TLOF/FATO_1": "green",
+      "stand": "code"
+    },
+    "departure": {
+      "battery": "quantityApproved",
+      "vertiportName": "HEX",
+      "expectedExitPt": "exitPt",
+      "weatherReceived": true,
+      "TLOF/FATO_3": "green"
+    },
+    "times": {
+      "timeNow": 0,
+      "arrivalTimeEstimated": "1671004425.275092",
+      "secondsToArrivalAtDestination": 3,
+      "arrivalTimeActual": 0,
+      "entryPointTimeEstimated": "1671004405.275092",
+      "secondsToEntryPoint": 3,
+      "entryPointTimeActual": "1671004408.275092",
+      "landingTimeEstimated": "1671004408.275092",
+      "secondsToLanding": 3,
+      "landingTimeActual": "1671004411.275092",
+      "standArrivalTimeEstimated": "1671004414.275092",
+      "secondsToStandArrival": 3,
+      "standArrivalTimeActual": "1671004414.275092",
+      "standDepartureTimeEstimated": "1671004417.275092",
+      "turnAroundTime": 3,
+      "standDepartureTimeActual": "1671004417.275092",
+      "takeoffTimeEstimated": "1671004420.275092",
+      "secondsToTaxiForTakeoff": 3,
+      "takeoffTimeActual": "1671004420.275092",
+      "exitPointTimeEstimated": "1671004423.275092",
+      "secondsToExitPoint": 3,
+      "exitPointTimeActual": "1671004423.275092",
+      "delayCode": "code"
+    },
+    "cabinData": {
+      "Passengers": {
+        "pax1": [
+          "Name",
+          "ticketId",
+          "assistance"
+        ],
+        "pax2": [
+          "Name",
+          "ticketId",
+          "assistance"
+        ]
+      },
+      "paxLuggage": {
+        "pax1": {
+          "bags": 0,
+          "bagLabel": "code"
+        },
+        "pax2": {
+          "bags": 0,
+          "bagLabel": "code"
+        }
+      }
+    },
+    "flightPlan": true,
+    "eVTOLStatus": {
+      "batteryStatus": "100%",
+      "systems": "green"
+    }
+  }
+}

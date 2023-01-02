@@ -1,0 +1,60 @@
+{
+  "id": "1234",
+  "Outbound": true,
+  "operatorId": "HEX",
+  "flightNumber": "LX682",
+  "VTOLId": "HEX",
+  "VTOLData": {
+    "eVTOL": "type",
+    "VTOL": "type",
+    "propulsion": "type",
+    "nOfPaxMax": 2,
+    "shapeType": "A",
+    "taxi":  "Hoover/roll",
+    "flightRules": "VFR/IFR"
+  },
+  "flightData": {
+    "departureAirport": {
+      "vertiportName": "HEX",
+      "vertiportAvailable": true
+    },
+    "arrivalAirport": {
+      "vertiportName": "HEX",
+      "expectedEntryPt": "entryPt"
+    },
+    "EDT": 1234.345,
+    "EATpt": 12345.67,
+    "EAT": 12345.6788,
+    "delayCode": "code"
+  },
+  "cabinData": {
+  "Passengers": {
+    "pax1": [
+      "id",
+      "Name",
+      "ticketId",
+      "assistance"
+    ],
+    "pax2": [
+      "id",
+      "Name",
+      "ticketId",
+      "assistance"
+    ]
+    },
+    "paxLuggage": {
+      "paxId1": {
+        "bag": "id"
+      },
+      "paxId2": {
+        "bag": "id"
+      }
+    }
+  },
+  "flightPlan": true,
+  "Safety": true,
+  "eVTOLStatus": {
+    "batteryStatus": "100%",
+    "systems": "green"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "SYNCHRONIZATION GROUND TRANSPORT": {
+    "Predicted_Arrival": "07:37:43.2 GMT",
+    "Possible_Connections": {
+      "N680": [
+        "237 seconds",
+        "2 seats"
+      ],
+      "S340": [
+        "354 seconds",
+        "3 seats"
+      ],
+      "S456": [
+        "387 seconds",
+        "1 seats"
+      ],
+      "N243": [
+        "457 seconds",
+        "4 seats"
+      ]
+    }
+  }
+}
